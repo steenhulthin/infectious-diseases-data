@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Index of /docs</title>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const docsUrl = window.location.href + 'docs/';
+      
+      fetch(docsUrl)
+        .then(response => response.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(html, 'text/html');
+          const links = Array.from(doc.querySelectorAll('a'));
+          const docLinks = links.filter(link => link.getAttribute('href').includes('docs/'));
+          
+          const list = document.createElement('ul');
+          docLinks.forEach(link => {
+            const listItem = document.createElement('li');
+            const anchor = document.createElement('a');
+            anchor.href = link.href;
+            anchor.textContent = link.textContent;
+            listItem.appendChild(anchor);
+            list.appendChild(listItem);
+          });
+
+          document.body.appendChild(list);
+        })
+        .catch(error => console.error('Error:', error));
+    });
+  </script>
+</head>
+<body>
+  <h1>Index of /docs</h1>
+</body>
+</html>
