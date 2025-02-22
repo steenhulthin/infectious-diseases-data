@@ -40,6 +40,15 @@ jobs:
           iconv -f ISO_8859-15 -t UTF-8 "$file" > "utf8_data/$(basename "$file")"
         done
 
+    - name: Generate index.html
+      run: |
+        echo '<!DOCTYPE html><html><head><title>Index of CSV Files</title></head><body>' > index.html
+        echo '<h1>Index of Files</h1><ul>' >> index.html
+        for file in $(ls utf8_data); do
+          echo "<li><a href='$file'>$file</a></li>" >> index.html
+        done
+        echo '</ul></body></html>' >> index.html
+
     - name: Copy to docs, commit and push changes
       run: |
         git config --global user.name 'Steen Hulthin Rasmussen'
