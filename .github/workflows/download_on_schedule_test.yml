@@ -37,7 +37,11 @@ jobs:
       run: |
         mkdir -p utf8_data
         for file in unzipped_data/*.csv; do
-          iconv -f ISO_8859-15 -t UTF-8 "$file" > "utf8_data/$(basename "$file")"
+          if [ "$(basename "$file")" != "28_plejehjem_ugeoversigt.csv" ]; then
+            iconv -f ISO_8859-15 -t UTF-8 "$file" > "utf8_data/$(basename "$file")"
+          else 
+            cp "$file" "utf8_data/$(basename "$file")"
+          fi
         done
 
     - name: Generate index.html
