@@ -15,11 +15,23 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Download infection data zip file(s)
+    - name: Download c19 infection data zip file
       run: wget -O downloads/c19.zip https://sseruminstitut.maps.arcgis.com/sharing/rest/content/items/67a8aedc7ff9466e8920951540c2097f/data
 
-    - name: Unzip file
+    - name: Download inluenza infection data zip file
+      run: wget -O downloads/infl.zip https://sseruminstitut.maps.arcgis.com/sharing/rest/content/items/e23ed8a4d8f843259f0f9f6c2e084e16/data
+
+    - name: Download RSV infection data zip file
+      run: wget -O downloads/rsv.zip https://sseruminstitut.maps.arcgis.com/sharing/rest/content/items/add51841daa34019953ef73b4a7ed4c8/data
+
+    - name: Unzip c19 file
       run: unzip -o downloads/c19.zip -d unzipped_data
+
+    - name: Unzip influenza file
+      run: unzip -o downloads/infl.zip -d unzipped_data
+
+    - name: Unzip rsv file
+      run: unzip -o downloads/rsv.zip -d unzipped_data
 
     - name: Change encoding from ISO_8859-15 to UTF-8
       run: |
