@@ -1,0 +1,38 @@
+name: Download and process CSV Files
+
+on:
+  push:
+    branches:
+      - trunk
+  schedule:
+    - cron: '10 14 * * WED'
+
+jobs:
+  process-csv:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download infection data zip file(s)
+      run: wget -O downloads/c19.zip https://sseruminstitut.maps.arcgis.com/sharing/rest/content/items/67a8aedc7ff9466e8920951540c2097f/data
+
+    - name: Unzip file
+      run: unzip -o downloads/c19.zip -d unzipped_data
+
+    - name: Change encoding from ISO_8859-15 to UTF-8
+      run: |
+        mkdir -p utf8_data
+        for file in unzipped_data/*.csv; do
+          iconv -f ISO_8859-15 -t UTF-8 "$file" > "utf8_data/$(basename "$file")"
+        done
+
+    - name: Copy to docs, commit and push changes
+      run: |
+        git config --global user.name 'Steen Hulthin Rasmussen'
+        git config --global user.email 'steenhulthin@gmail.com'
+        cp -r utf8_data/* ./docs
+        git add .
+        git commit -m 'Downloaded and updated c19 data'
+        git push
