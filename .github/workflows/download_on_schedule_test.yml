@@ -42,12 +42,12 @@ jobs:
 
     - name: Generate index.html
       run: |
-        echo '<!DOCTYPE html><html><head><title>Index of CSV Files</title></head><body>' > index.html
-        echo '<h1>Index of Files</h1><ul>' >> index.html
+        echo '<!DOCTYPE html><html><head><title>Index of CSV Files</title></head><body>' > docs/index.html
+        echo '<h1>Index of Files</h1><ul>' >> docs/index.html
         for file in $(ls utf8_data); do
-          echo "<li><a href='$file'>$file</a></li>" >> index.html
+          echo "<li><a href='$file'>$file</a></li>" >> docs/index.html
         done
-        echo '</ul></body></html>' >> index.html
+        echo '</ul></body></html>' >> docs/index.html
 
     - name: Copy to docs, commit and push changes
       run: |
