@@ -6,7 +6,7 @@ Specifically the data available is from [Statens Serum Institut](https://www.ssi
 
 The data is from the [SSI dashboards](https://experience.arcgis.com/template/099eb5c9acea4e18b411997815be2f98). Data for covid-19, influenza and RSV is available.
 
-Data on [the site of this project](https://steenhulthin.github.io/infectious-diseases-data/) is updated at Wednesdays at 14.10 which is 10 minutes after the weekly data update by SSI.
+Data on [the site of this project](https://steenhulthin.github.io/infectious-diseases-data/) is updated at Wednesdays at 14.10 which is 10 minutes after the weekly data update by SSI. Data history is available from 2025-02-18 through the power of git.
 
 Unlike in most of the original data the here is all in UTF-8 encoding. Except for this data is not altered. This includes leaving the separater as ';' (and not ','). 
 
