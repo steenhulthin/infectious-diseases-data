@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2025-05-13T10:00:04.175"
+"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2025-05-20T10:00:06.635"
 2020-U09;1084;Hovedstaden;0;1857623;Første reinfektion;2;
 2020-U09;1084;Hovedstaden;0;1857623;To eller flere reinfektioner;3;
 2020-U09;1084;Hovedstaden;2;1857623;Første infektion;1;
@@ -88,7 +88,7 @@
 2020-U15;1084;Hovedstaden;900;1860038;Første infektion;1;
 2020-U15;1082;Midtjylland;0;1338319;Første reinfektion;2;
 2020-U15;1082;Midtjylland;0;1338319;To eller flere reinfektioner;3;
-2020-U15;1082;Midtjylland;282;1338319;Første infektion;1;
+2020-U15;1082;Midtjylland;281;1338319;Første infektion;1;
 2020-U15;1081;Nordjylland;0;594976;Første reinfektion;2;
 2020-U15;1081;Nordjylland;0;594976;To eller flere reinfektioner;3;
 2020-U15;1081;Nordjylland;62;594976;Første infektion;1;
@@ -118,7 +118,7 @@
 2020-U17;1084;Hovedstaden;789;1860038;Første infektion;1;
 2020-U17;1082;Midtjylland;0;1338319;Første reinfektion;2;
 2020-U17;1082;Midtjylland;0;1338319;To eller flere reinfektioner;3;
-2020-U17;1082;Midtjylland;179;1338319;Første infektion;1;
+2020-U17;1082;Midtjylland;178;1338319;Første infektion;1;
 2020-U17;1081;Nordjylland;0;594976;Første reinfektion;2;
 2020-U17;1081;Nordjylland;0;594976;To eller flere reinfektioner;3;
 2020-U17;1081;Nordjylland;30;594976;Første infektion;1;
@@ -4068,5 +4068,20 @@
 2025-U19;1085;Sjælland;2;853355;Første infektion;1;
 2025-U19;1085;Sjælland;2;853355;Første reinfektion;2;
 2025-U19;1083;Syddanmark;0;1238973;To eller flere reinfektioner;3;
-2025-U19;1083;Syddanmark;1;1238973;Første reinfektion;2;
+2025-U19;1083;Syddanmark;2;1238973;Første reinfektion;2;
 2025-U19;1083;Syddanmark;5;1238973;Første infektion;1;
+2025-U20;1084;Hovedstaden;1;1929213;To eller flere reinfektioner;3;
+2025-U20;1084;Hovedstaden;11;1929213;Første reinfektion;2;
+2025-U20;1084;Hovedstaden;21;1929213;Første infektion;1;
+2025-U20;1082;Midtjylland;0;1372854;Første reinfektion;2;
+2025-U20;1082;Midtjylland;0;1372854;To eller flere reinfektioner;3;
+2025-U20;1082;Midtjylland;1;1372854;Første infektion;1;
+2025-U20;1081;Nordjylland;0;591810;Første reinfektion;2;
+2025-U20;1081;Nordjylland;0;591810;To eller flere reinfektioner;3;
+2025-U20;1081;Nordjylland;1;591810;Første infektion;1;
+2025-U20;1085;Sjælland;0;853355;To eller flere reinfektioner;3;
+2025-U20;1085;Sjælland;3;853355;Første infektion;1;
+2025-U20;1085;Sjælland;3;853355;Første reinfektion;2;
+2025-U20;1083;Syddanmark;1;1238973;Første reinfektion;2;
+2025-U20;1083;Syddanmark;1;1238973;To eller flere reinfektioner;3;
+2025-U20;1083;Syddanmark;4;1238973;Første infektion;1;
