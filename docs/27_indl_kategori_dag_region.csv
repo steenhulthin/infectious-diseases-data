@@ -1,4 +1,4 @@
-"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2025-06-10T10:00:10.206"
+"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2025-06-17T10:00:07.774"
 2020-06-01;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
 2020-06-01;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2020-06-01;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
@@ -17538,3 +17538,9 @@
 2025-05-25;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2025-05-26;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2025-05-26;1081;Nordjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-05-26;1085;Sjælland;Indlæggelse pga. covid-19;1;
+2025-05-27;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
+2025-05-27;1083;Syddanmark;Indlæggelse pga. covid-19;1;
+2025-05-28;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-05-28;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;1;
+2025-05-28;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
