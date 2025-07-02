@@ -1,4 +1,4 @@
-"Regionskode";"Region";"Dato";"Bekræftede tilfælde i alt";"timestamp_2025-06-24T10:00:05.968"
+"Regionskode";"Region";"Dato";"Bekræftede tilfælde i alt";"timestamp_2025-07-01T10:00:04.462"
 1085;Sjælland;2020-02-26;1;
 1084;Hovedstaden;2020-02-27;1;
 1082;Midtjylland;2020-02-28;1;
@@ -178,7 +178,7 @@
 1082;Midtjylland;2020-04-09;23;
 1081;Nordjylland;2020-04-09;8;
 1085;Sjælland;2020-04-09;19;
-1083;Syddanmark;2020-04-09;12;
+1083;Syddanmark;2020-04-09;11;
 1084;Hovedstaden;2020-04-10;88;
 1082;Midtjylland;2020-04-10;17;
 1081;Nordjylland;2020-04-10;7;
@@ -315,7 +315,7 @@
 1081;Nordjylland;2020-05-07;1;
 1085;Sjælland;2020-05-07;32;
 1083;Syddanmark;2020-05-07;3;
-1084;Hovedstaden;2020-05-08;52;
+1084;Hovedstaden;2020-05-08;51;
 1082;Midtjylland;2020-05-08;5;
 1085;Sjælland;2020-05-08;9;
 1083;Syddanmark;2020-05-08;3;
@@ -431,7 +431,7 @@
 1083;Syddanmark;2020-06-04;5;
 1084;Hovedstaden;2020-06-05;29;
 1085;Sjælland;2020-06-05;4;
-1083;Syddanmark;2020-06-05;2;
+1083;Syddanmark;2020-06-05;1;
 1084;Hovedstaden;2020-06-06;11;
 1082;Midtjylland;2020-06-06;1;
 1085;Sjælland;2020-06-06;2;
@@ -1955,7 +1955,7 @@
 1081;Nordjylland;2021-04-14;54;
 1085;Sjælland;2021-04-14;76;
 1083;Syddanmark;2021-04-14;94;
-1084;Hovedstaden;2021-04-15;327;
+1084;Hovedstaden;2021-04-15;326;
 1082;Midtjylland;2021-04-15;157;
 1081;Nordjylland;2021-04-15;49;
 1085;Sjælland;2021-04-15;90;
@@ -2985,7 +2985,7 @@
 1081;Nordjylland;2021-11-06;137;
 1085;Sjælland;2021-11-06;252;
 1083;Syddanmark;2021-11-06;261;
-1084;Hovedstaden;2021-11-07;1268;
+1084;Hovedstaden;2021-11-07;1267;
 1082;Midtjylland;2021-11-07;437;
 1081;Nordjylland;2021-11-07;211;
 1085;Sjælland;2021-11-07;308;
@@ -3330,7 +3330,7 @@
 1081;Nordjylland;2022-01-14;2104;
 1085;Sjælland;2022-01-14;3725;
 1083;Syddanmark;2022-01-14;5302;
-1084;Hovedstaden;2022-01-15;11049;
+1084;Hovedstaden;2022-01-15;11048;
 1082;Midtjylland;2022-01-15;6338;
 1081;Nordjylland;2022-01-15;2157;
 1085;Sjælland;2022-01-15;2892;
@@ -9050,7 +9050,7 @@
 1085;Sjælland;2025-06-16;1;
 1083;Syddanmark;2025-06-16;1;
 1084;Hovedstaden;2025-06-17;10;
-1082;Midtjylland;2025-06-17;1;
+1082;Midtjylland;2025-06-17;2;
 1083;Syddanmark;2025-06-17;1;
 1084;Hovedstaden;2025-06-18;4;
 1082;Midtjylland;2025-06-18;1;
@@ -9064,7 +9064,31 @@
 1085;Sjælland;2025-06-20;1;
 1083;Syddanmark;2025-06-20;2;
 1084;Hovedstaden;2025-06-21;6;
-1084;Hovedstaden;2025-06-22;5;
-1084;Hovedstaden;2025-06-23;3;
+1084;Hovedstaden;2025-06-22;6;
+1084;Hovedstaden;2025-06-23;6;
 1081;Nordjylland;2025-06-23;1;
-1085;Sjælland;2025-06-23;1;
+1085;Sjælland;2025-06-23;3;
+1083;Syddanmark;2025-06-23;1;
+1084;Hovedstaden;2025-06-24;5;
+1081;Nordjylland;2025-06-24;1;
+1083;Syddanmark;2025-06-24;1;
+1084;Hovedstaden;2025-06-25;3;
+1082;Midtjylland;2025-06-25;1;
+1085;Sjælland;2025-06-25;1;
+1083;Syddanmark;2025-06-25;3;
+1084;Hovedstaden;2025-06-26;5;
+1082;Midtjylland;2025-06-26;1;
+1085;Sjælland;2025-06-26;1;
+1083;Syddanmark;2025-06-26;1;
+1084;Hovedstaden;2025-06-27;6;
+1085;Sjælland;2025-06-27;1;
+1083;Syddanmark;2025-06-27;1;
+1084;Hovedstaden;2025-06-28;2;
+1082;Midtjylland;2025-06-28;1;
+1081;Nordjylland;2025-06-28;2;
+1085;Sjælland;2025-06-28;1;
+1083;Syddanmark;2025-06-28;1;
+1084;Hovedstaden;2025-06-29;3;
+1085;Sjælland;2025-06-29;1;
+1084;Hovedstaden;2025-06-30;6;
+1085;Sjælland;2025-06-30;1;
