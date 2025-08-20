@@ -1,4 +1,4 @@
-"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2025-08-12T10:21:23.084"
+"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2025-08-19T10:00:07.979"
 2020-06-01;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
 2020-06-01;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2020-06-01;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
@@ -2959,7 +2959,7 @@
 2021-07-12;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;1;
 2021-07-12;1083;Syddanmark;Indlæggelse pga. covid-19;1;
 2021-07-13;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;2;
-2021-07-13;1084;Hovedstaden;Indlæggelse pga. covid-19;6;
+2021-07-13;1084;Hovedstaden;Indlæggelse pga. covid-19;5;
 2021-07-13;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;1;
 2021-07-13;1082;Midtjylland;Indlæggelse pga. covid-19;1;
 2021-07-13;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;1;
@@ -17743,6 +17743,25 @@
 2025-07-26;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;1;
 2025-07-27;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;2;
 2025-07-28;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
-2025-07-28;1081;Nordjylland;Indlæggelse pga. covid-19;1;
+2025-07-28;1081;Nordjylland;Indlæggelse pga. covid-19;2;
 2025-07-28;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;1;
 2025-07-28;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-07-29;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;2;
+2025-07-29;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
+2025-07-29;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;1;
+2025-07-29;1081;Nordjylland;Indlæggelse pga. covid-19;1;
+2025-07-29;1085;Sjælland;Indlæggelse pga. covid-19;1;
+2025-07-30;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
+2025-07-31;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;2;
+2025-07-31;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
+2025-07-31;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;1;
+2025-07-31;1085;Sjælland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-07-31;1083;Syddanmark;Indlæggelse pga. covid-19;1;
+2025-07-31;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-08-01;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;1;
+2025-08-01;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
+2025-08-02;1081;Nordjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-08-02;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;1;
+2025-08-03;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;2;
+2025-08-04;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-08-04;1085;Sjælland;Indlæggelse pga. covid-19;1;
