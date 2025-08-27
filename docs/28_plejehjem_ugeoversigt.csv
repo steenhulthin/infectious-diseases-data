@@ -1,4 +1,4 @@
-"År";"Uge";"Bekræftede tilfælde beboere";"Dødsfald blandt bekræftede beboere";"Plejehjem med bekræftede tilfælde";"Antal tests blandt beboere";"Plejehjem med testede beboere";"timestamp_2025-08-19T10:00:07.979"
+"År";"Uge";"Bekræftede tilfælde beboere";"Dødsfald blandt bekræftede beboere";"Plejehjem med bekræftede tilfælde";"Antal tests blandt beboere";"Plejehjem med testede beboere";"timestamp_2025-08-26T10:00:05.410"
 2020;11;7;0;6;118;107;
 2020;12;23;3;15;251;188;
 2020;13;68;15;31;433;249;
@@ -266,7 +266,7 @@
 2025;14;2;2;2;161;130;
 2025;15;2;0;2;126;111;
 2025;16;5;1;5;150;127;
-2025;17;4;0;4;102;89;
+2025;17;4;0;4;103;90;
 2025;18;3;3;3;109;95;
 2025;19;2;0;2;106;86;
 2025;20;0;1;0;93;79;
@@ -283,4 +283,5 @@
 2025;31;0;0;0;75;60;
 2025;32;3;0;3;66;60;
 2025;33;1;1;1;64;55;
-I alt;;32300;3236;957;877680;980;
+2025;34;2;0;2;63;56;
+I alt;;32302;3236;957;877744;980;
