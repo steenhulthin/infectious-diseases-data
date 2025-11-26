@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Prøver";"Metode";"timestamp_2025-11-18T10:00:04.687"
+"Uge";"Regionskode";"Region";"Prøver";"Metode";"timestamp_2025-11-25T10:00:05.477"
 2020-U05;1085;Sjælland;1;PCR;
 2020-U07;1083;Syddanmark;1;PCR;
 2020-U08;;;1;PCR;
@@ -2698,8 +2698,8 @@
 2025-U42;1081;Nordjylland;231;PCR;
 2025-U42;1085;Sjælland;396;PCR;
 2025-U42;1083;Syddanmark;444;PCR;
-2025-U43;;;26;PCR;
-2025-U43;1084;Hovedstaden;1807;PCR;
+2025-U43;;;24;PCR;
+2025-U43;1084;Hovedstaden;1809;PCR;
 2025-U43;1082;Midtjylland;212;PCR;
 2025-U43;1081;Nordjylland;228;PCR;
 2025-U43;1085;Sjælland;452;PCR;
@@ -2717,8 +2717,14 @@
 2025-U45;1085;Sjælland;405;PCR;
 2025-U45;1083;Syddanmark;446;PCR;
 2025-U46;;;15;PCR;
-2025-U46;1084;Hovedstaden;1583;PCR;
-2025-U46;1082;Midtjylland;187;PCR;
-2025-U46;1081;Nordjylland;186;PCR;
-2025-U46;1085;Sjælland;427;PCR;
-2025-U46;1083;Syddanmark;428;PCR;
+2025-U46;1084;Hovedstaden;1601;PCR;
+2025-U46;1082;Midtjylland;202;PCR;
+2025-U46;1081;Nordjylland;188;PCR;
+2025-U46;1085;Sjælland;434;PCR;
+2025-U46;1083;Syddanmark;440;PCR;
+2025-U47;;;27;PCR;
+2025-U47;1084;Hovedstaden;1673;PCR;
+2025-U47;1082;Midtjylland;175;PCR;
+2025-U47;1081;Nordjylland;206;PCR;
+2025-U47;1085;Sjælland;433;PCR;
+2025-U47;1083;Syddanmark;420;PCR;
