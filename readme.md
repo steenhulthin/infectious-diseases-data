@@ -10,6 +10,8 @@ Data on [the site of this project](https://steenhulthin.github.io/infectious-dis
 
 Unlike in most of the original data the here is all in UTF-8 encoding. Except for this data is not altered. This includes leaving the separater as ';' (and not ','). 
 
+[![Latest CSV Files](https://github.com/steenhulthin/infectious-diseases-data/actions/workflows/download_on_schedule_test.yml/badge.svg)](https://github.com/steenhulthin/infectious-diseases-data/actions/workflows/download_on_schedule_test.yml)
+
 # usage
 
 ## from python
