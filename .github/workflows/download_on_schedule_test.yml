@@ -48,6 +48,7 @@ jobs:
       run: |
         echo '<!DOCTYPE html><html><head><title>Index of CSV Files</title></head><body>' > docs/index.html
         echo '<h1>Index of Files</h1><ul>' >> docs/index.html
+        echo '<a href="https://github.com/steenhulthin/infectious-diseases-data/actions/workflows/download_on_schedule_test.yml"><img src="https://github.com/steenhulthin/infectious-diseases-data/actions/workflows/download_on_schedule_test.yml/badge.svg" alt="Latest CSV Files" style="max-width: 100%;"></a>' >> docs/index.html
         for file in $(ls utf8_data); do
           echo "<li><a href='$file'>$file</a></li>" >> docs/index.html
         done
