@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Antal reinfektioner";"Reinfektioner pr. 100.000 borgere";"Første reinfektion";"To eller flere reinfektioner";"timestamp_2026-02-10T10:00:03.958"
+"Uge";"Regionskode";"Region";"Antal reinfektioner";"Reinfektioner pr. 100.000 borgere";"Første reinfektion";"To eller flere reinfektioner";"timestamp_2026-02-17T10:00:04.990"
 2020-U21;1084;Hovedstaden;2;0,11;2;0;
 2020-U21;1082;Midtjylland;1;0,07;1;0;
 2020-U21;1083;Syddanmark;1;0,08;1;0;
@@ -7,7 +7,7 @@
 2020-U24;1084;Hovedstaden;4;0,22;4;0;
 2020-U24;1082;Midtjylland;2;0,15;2;0;
 2020-U24;1083;Syddanmark;1;0,08;1;0;
-2020-U25;1084;Hovedstaden;5;0,27;5;0;
+2020-U25;1084;Hovedstaden;4;0,22;4;0;
 2020-U25;1082;Midtjylland;1;0,08;1;0;
 2020-U25;1085;Sjælland;1;0,12;1;0;
 2020-U25;1083;Syddanmark;1;0,08;1;0;
@@ -66,7 +66,7 @@
 2020-U48;1085;Sjælland;3;0,36;3;0;
 2020-U49;1084;Hovedstaden;10;0,54;9;1;
 2020-U49;1082;Midtjylland;1;0,07;1;0;
-2020-U50;1084;Hovedstaden;11;0,59;11;0;
+2020-U50;1084;Hovedstaden;10;0,54;10;0;
 2020-U50;1082;Midtjylland;2;0,15;2;0;
 2020-U50;1085;Sjælland;4;0,48;4;0;
 2020-U50;1083;Syddanmark;2;0,16;2;0;
@@ -1385,8 +1385,13 @@
 2026-U05;1081;Nordjylland;4;0,67;3;1;
 2026-U05;1085;Sjælland;13;1,52;12;1;
 2026-U05;1083;Syddanmark;9;0,72;9;0;
-2026-U06;1084;Hovedstaden;24;1,24;19;5;
+2026-U06;1084;Hovedstaden;25;1,29;20;5;
 2026-U06;1082;Midtjylland;1;0,07;1;0;
 2026-U06;1081;Nordjylland;7;1,18;7;0;
 2026-U06;1085;Sjælland;11;1,28;9;2;
 2026-U06;1083;Syddanmark;10;0,80;10;0;
+2026-U07;1084;Hovedstaden;15;0,77;9;6;
+2026-U07;1082;Midtjylland;5;0,36;5;0;
+2026-U07;1081;Nordjylland;1;0,17;1;0;
+2026-U07;1085;Sjælland;9;1,05;8;1;
+2026-U07;1083;Syddanmark;2;0,16;2;0;

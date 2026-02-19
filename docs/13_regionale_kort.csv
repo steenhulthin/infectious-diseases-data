@@ -1,6 +1,6 @@
-"Region";"Regionskode";"Bekræftede tilfælde i alt";"Incidens";"Bekræftede tilfælde i alt de seneste 7 dage";"Incidens de seneste 7 dage";"Testede";"Test incidens";"Testede de seneste 7 dage";"Test incidens de seneste 7 dage";"Positivprocent de seneste 7 dage";"antal_bor";"timestamp_2026-02-10T10:00:03.958"
-Hovedstaden;1084;1151806;59337;47;2,4;1811755;93335;2959;152,4;1,59;1941141;
-Midtjylland;1082;776442;56216;6;0,4;1258887;91146;785;56,8;0,76;1381183;
-Nordjylland;1081;348012;58733;18;3,0;567570;95788;603;101,8;2,99;592528;
-Sjælland;1085;469008;54768;28;3,3;794565;92785;1042;121,7;2,69;856355;
-Syddanmark;1083;692451;55744;18;1,4;1157606;93189;1214;97,7;1,48;1242209;
+"Region";"Regionskode";"Bekræftede tilfælde i alt";"Incidens";"Bekræftede tilfælde i alt de seneste 7 dage";"Incidens de seneste 7 dage";"Testede";"Test incidens";"Testede de seneste 7 dage";"Test incidens de seneste 7 dage";"Positivprocent de seneste 7 dage";"antal_bor";"timestamp_2026-02-17T10:00:04.990"
+Hovedstaden;1084;1151813;59337;39;2,0;1812128;93354;2962;152,6;1,32;1941141;
+Midtjylland;1082;776441;56216;11;0,8;1259008;91154;844;61,1;1,30;1381183;
+Nordjylland;1081;348010;58733;6;1,0;567662;95803;660;111,4;0,91;592528;
+Sjælland;1085;469016;54769;26;3,0;794710;92801;1137;132,8;2,29;856355;
+Syddanmark;1083;692450;55743;8;0,6;1157720;93198;1193;96,0;0,67;1242209;
