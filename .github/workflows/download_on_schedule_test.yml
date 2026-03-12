@@ -52,7 +52,7 @@ jobs:
         for file in $(ls utf8_data); do
           echo "<li><a href='$file'>$file</a></li>" >> docs/index.html
         done
-        echo '</ul><hr>This is the data endpoint of the <a href="https://github.com/steenhulthin/infectious-diseases-data">Steenhulthin's infectious-diseases-data project.</a></body></html>' >> docs/index.html
+        echo '</ul><hr>This is the data endpoint of the <a href="https://github.com/steenhulthin/infectious-diseases-data">Steenhulthins infectious-diseases-data project.</a></body></html>' >> docs/index.html
 
     - name: Copy to docs, commit and push changes
       run: |
