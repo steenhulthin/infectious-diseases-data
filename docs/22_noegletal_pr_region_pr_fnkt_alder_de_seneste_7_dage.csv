@@ -1,19 +1,17 @@
-"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"Indlagte";"Dato";"timestamp_2026-03-10T10:00:06.849"
-1084;Hovedstaden;00-02;1;0;2026-03-10;
-1082;Midtjylland;00-02;1;1;2026-03-10;
-1081;Nordjylland;00-02;1;0;2026-03-10;
-1085;Sjælland;00-02;2;1;2026-03-10;
-1081;Nordjylland;03-05;1;0;2026-03-10;
-1084;Hovedstaden;06-11;2;0;2026-03-10;
-1084;Hovedstaden;20-39;2;0;2026-03-10;
-1084;Hovedstaden;40-64;6;0;2026-03-10;
-1082;Midtjylland;40-64;1;1;2026-03-10;
-1085;Sjælland;40-64;2;1;2026-03-10;
-1083;Syddanmark;40-64;2;2;2026-03-10;
-1084;Hovedstaden;65-79;4;2;2026-03-10;
-1085;Sjælland;65-79;4;3;2026-03-10;
-1083;Syddanmark;65-79;1;1;2026-03-10;
-1084;Hovedstaden;80+;4;3;2026-03-10;
-1081;Nordjylland;80+;1;1;2026-03-10;
-1085;Sjælland;80+;2;2;2026-03-10;
-1083;Syddanmark;80+;1;1;2026-03-10;
+"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"Indlagte";"Dato";"timestamp_2026-03-17T10:00:04.992"
+1084;Hovedstaden;00-02;2;1;2026-03-17;
+1081;Nordjylland;00-02;1;0;2026-03-17;
+1085;Sjælland;00-02;3;1;2026-03-17;
+1084;Hovedstaden;06-11;1;0;2026-03-17;
+1084;Hovedstaden;20-39;1;0;2026-03-17;
+1085;Sjælland;20-39;2;0;2026-03-17;
+1081;Nordjylland;40-64;1;0;2026-03-17;
+1085;Sjælland;40-64;1;0;2026-03-17;
+1083;Syddanmark;40-64;4;3;2026-03-17;
+1084;Hovedstaden;65-79;3;3;2026-03-17;
+1085;Sjælland;65-79;2;1;2026-03-17;
+1083;Syddanmark;65-79;3;2;2026-03-17;
+1084;Hovedstaden;80+;5;4;2026-03-17;
+1081;Nordjylland;80+;1;0;2026-03-17;
+1085;Sjælland;80+;1;1;2026-03-17;
+1083;Syddanmark;80+;2;2;2026-03-17;
