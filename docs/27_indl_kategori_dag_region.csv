@@ -1,4 +1,4 @@
-"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2026-04-21T11:25:01.543"
+"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2026-04-28T11:40:01.985"
 2020-06-01;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
 2020-06-01;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2020-06-01;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
@@ -4434,7 +4434,7 @@
 2021-12-22;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;13;
 2021-12-22;1084;Hovedstaden;Indlæggelse pga. covid-19;24;
 2021-12-22;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;19;
-2021-12-22;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;5;
+2021-12-22;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;6;
 2021-12-22;1082;Midtjylland;Indlæggelse pga. covid-19;11;
 2021-12-22;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2021-12-22;1081;Nordjylland;Indlæggelse pga. andre forhold end covid-19;1;
@@ -4898,7 +4898,7 @@
 2022-01-21;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;10;
 2022-01-21;1085;Sjælland;Indlæggelse pga. covid-19;9;
 2022-01-21;1085;Sjælland;Indlæggelse, hvor covid-19 kan have spillet en rolle;10;
-2022-01-21;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;7;
+2022-01-21;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;8;
 2022-01-21;1083;Syddanmark;Indlæggelse pga. covid-19;15;
 2022-01-21;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;5;
 2022-01-22;;;Indlæggelse pga. covid-19;1;
@@ -5370,7 +5370,7 @@
 2022-02-20;1083;Syddanmark;Indlæggelse pga. covid-19;28;
 2022-02-20;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;14;
 2022-02-21;;;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
-2022-02-21;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;43;
+2022-02-21;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;44;
 2022-02-21;1084;Hovedstaden;Indlæggelse pga. covid-19;28;
 2022-02-21;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;43;
 2022-02-21;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;50;
@@ -5413,7 +5413,7 @@
 2022-02-23;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;8;
 2022-02-23;1085;Sjælland;Indlæggelse pga. covid-19;13;
 2022-02-23;1085;Sjælland;Indlæggelse, hvor covid-19 kan have spillet en rolle;15;
-2022-02-23;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;42;
+2022-02-23;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;43;
 2022-02-23;1083;Syddanmark;Indlæggelse pga. covid-19;24;
 2022-02-23;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;15;
 2022-02-24;;;Indlæggelse pga. andre forhold end covid-19;1;
@@ -5545,7 +5545,7 @@
 2022-03-03;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;35;
 2022-03-03;1083;Syddanmark;Indlæggelse pga. covid-19;11;
 2022-03-03;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;8;
-2022-03-04;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;34;
+2022-03-04;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;35;
 2022-03-04;1084;Hovedstaden;Indlæggelse pga. covid-19;18;
 2022-03-04;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;23;
 2022-03-04;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;23;
@@ -7353,7 +7353,7 @@
 2022-07-11;1083;Syddanmark;Indlæggelse pga. covid-19;6;
 2022-07-11;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;6;
 2022-07-12;;;Indlæggelse pga. covid-19;1;
-2022-07-12;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;15;
+2022-07-12;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;16;
 2022-07-12;1084;Hovedstaden;Indlæggelse pga. covid-19;15;
 2022-07-12;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;4;
 2022-07-12;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;2;
@@ -7369,7 +7369,7 @@
 2022-07-12;1083;Syddanmark;Indlæggelse pga. covid-19;9;
 2022-07-12;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;5;
 2022-07-13;;;Indlæggelse pga. andre forhold end covid-19;1;
-2022-07-13;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;13;
+2022-07-13;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;14;
 2022-07-13;1084;Hovedstaden;Indlæggelse pga. covid-19;11;
 2022-07-13;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;16;
 2022-07-13;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;2;
@@ -11251,8 +11251,8 @@
 2023-04-24;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;5;
 2023-04-25;;;Indlæggelse pga. covid-19;1;
 2023-04-25;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;7;
-2023-04-25;1084;Hovedstaden;Indlæggelse pga. covid-19;11;
-2023-04-25;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;4;
+2023-04-25;1084;Hovedstaden;Indlæggelse pga. covid-19;10;
+2023-04-25;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;5;
 2023-04-25;1082;Midtjylland;Indlæggelse pga. andre forhold end covid-19;3;
 2023-04-25;1082;Midtjylland;Indlæggelse pga. covid-19;4;
 2023-04-25;1081;Nordjylland;Indlæggelse pga. andre forhold end covid-19;2;
@@ -18085,8 +18085,8 @@
 2025-09-16;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;1;
 2025-09-16;1083;Syddanmark;Indlæggelse pga. covid-19;1;
 2025-09-17;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;1;
-2025-09-17;1084;Hovedstaden;Indlæggelse pga. covid-19;3;
-2025-09-17;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2025-09-17;1084;Hovedstaden;Indlæggelse pga. covid-19;2;
+2025-09-17;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;2;
 2025-09-17;1082;Midtjylland;Indlæggelse pga. covid-19;1;
 2025-09-17;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;2;
 2025-09-17;1081;Nordjylland;Indlæggelse pga. andre forhold end covid-19;1;
@@ -18500,9 +18500,9 @@
 2025-11-06;1085;Sjælland;Indlæggelse, hvor covid-19 kan have spillet en rolle;2;
 2025-11-06;1083;Syddanmark;Indlæggelse pga. covid-19;2;
 2025-11-06;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
-2025-11-07;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;2;
+2025-11-07;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;3;
 2025-11-07;1084;Hovedstaden;Indlæggelse pga. covid-19;2;
-2025-11-07;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;2;
+2025-11-07;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2025-11-07;1081;Nordjylland;Indlæggelse pga. andre forhold end covid-19;1;
 2025-11-07;1085;Sjælland;Indlæggelse pga. covid-19;1;
 2025-11-07;1083;Syddanmark;Indlæggelse pga. covid-19;1;
@@ -19358,7 +19358,19 @@
 2026-04-02;1083;Syddanmark;Indlæggelse pga. covid-19;1;
 2026-04-04;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2026-04-05;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
-2026-04-06;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;1;
+2026-04-06;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;2;
 2026-04-06;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
 2026-04-06;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2026-04-06;1083;Syddanmark;Indlæggelse pga. covid-19;1;
+2026-04-07;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
+2026-04-07;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;2;
+2026-04-07;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2026-04-08;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2026-04-08;1085;Sjælland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2026-04-09;1084;Hovedstaden;Indlæggelse pga. andre forhold end covid-19;1;
+2026-04-09;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2026-04-09;1082;Midtjylland;Indlæggelse pga. covid-19;1;
+2026-04-10;1085;Sjælland;Indlæggelse pga. covid-19;1;
+2026-04-11;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
+2026-04-13;1084;Hovedstaden;Indlæggelse pga. covid-19;2;
+2026-04-13;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
