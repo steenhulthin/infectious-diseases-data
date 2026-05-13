@@ -1,4 +1,4 @@
-"Regionskode";"Region";"Dato";"Bekræftede tilfælde i alt";"timestamp_2026-05-05T11:40:02.065"
+"Regionskode";"Region";"Dato";"Bekræftede tilfælde i alt";"timestamp_2026-05-12T12:22:33.340"
 1085;Sjælland;2020-02-26;1;
 1084;Hovedstaden;2020-02-27;1;
 1082;Midtjylland;2020-02-28;1;
@@ -2605,10 +2605,10 @@
 1081;Nordjylland;2021-08-22;62;
 1085;Sjælland;2021-08-22;73;
 1083;Syddanmark;2021-08-22;146;
-1084;Hovedstaden;2021-08-23;512;
+1084;Hovedstaden;2021-08-23;511;
 1082;Midtjylland;2021-08-23;206;
 1081;Nordjylland;2021-08-23;70;
-1085;Sjælland;2021-08-23;96;
+1085;Sjælland;2021-08-23;97;
 1083;Syddanmark;2021-08-23;171;
 1084;Hovedstaden;2021-08-24;559;
 1082;Midtjylland;2021-08-24;152;
@@ -3276,7 +3276,7 @@
 1085;Sjælland;2022-01-03;4096;
 1083;Syddanmark;2022-01-03;4712;
 1084;Hovedstaden;2022-01-04;10086;
-1082;Midtjylland;2022-01-04;5108;
+1082;Midtjylland;2022-01-04;5107;
 1081;Nordjylland;2022-01-04;2206;
 1085;Sjælland;2022-01-04;3516;
 1083;Syddanmark;2022-01-04;4758;
@@ -3288,7 +3288,7 @@
 1084;Hovedstaden;2022-01-06;6680;
 1082;Midtjylland;2022-01-06;3360;
 1081;Nordjylland;2022-01-06;1426;
-1085;Sjælland;2022-01-06;2403;
+1085;Sjælland;2022-01-06;2402;
 1083;Syddanmark;2022-01-06;2897;
 1084;Hovedstaden;2022-01-07;5898;
 1082;Midtjylland;2022-01-07;3341;
@@ -3596,7 +3596,7 @@
 1085;Sjælland;2022-03-08;2041;
 1083;Syddanmark;2022-03-08;4002;
 1084;Hovedstaden;2022-03-09;3404;
-1082;Midtjylland;2022-03-09;3658;
+1082;Midtjylland;2022-03-09;3659;
 1081;Nordjylland;2022-03-09;1777;
 1085;Sjælland;2022-03-09;1896;
 1083;Syddanmark;2022-03-09;3378;
@@ -4288,7 +4288,7 @@
 1084;Hovedstaden;2022-07-25;575;
 1082;Midtjylland;2022-07-25;430;
 1081;Nordjylland;2022-07-25;203;
-1085;Sjælland;2022-07-25;333;
+1085;Sjælland;2022-07-25;332;
 1083;Syddanmark;2022-07-25;528;
 1084;Hovedstaden;2022-07-26;513;
 1082;Midtjylland;2022-07-26;399;
@@ -10253,5 +10253,11 @@
 1085;Sjælland;2026-04-26;1;
 1084;Hovedstaden;2026-04-27;1;
 1084;Hovedstaden;2026-04-28;1;
-1084;Hovedstaden;2026-05-01;4;
+1084;Hovedstaden;2026-05-01;5;
+1082;Midtjylland;2026-05-01;1;
 1084;Hovedstaden;2026-05-04;1;
+1084;Hovedstaden;2026-05-05;3;
+1084;Hovedstaden;2026-05-06;2;
+1084;Hovedstaden;2026-05-07;1;
+1084;Hovedstaden;2026-05-08;1;
+1083;Syddanmark;2026-05-08;1;
