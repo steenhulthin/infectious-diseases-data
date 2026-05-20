@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2026-05-12T12:22:33.340"
+"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2026-05-19T11:40:01.707"
 2020-U09;1084;Hovedstaden;0;1857623;Første reinfektion;2;
 2020-U09;1084;Hovedstaden;0;1857623;To eller flere reinfektioner;3;
 2020-U09;1084;Hovedstaden;2;1857623;Første infektion;1;
@@ -679,7 +679,7 @@
 2021-U01;1085;Sjælland;1869;837221;Første infektion;1;
 2021-U01;1083;Syddanmark;0;1222145;To eller flere reinfektioner;3;
 2021-U01;1083;Syddanmark;2;1222145;Første reinfektion;2;
-2021-U01;1083;Syddanmark;1662;1222145;Første infektion;1;
+2021-U01;1083;Syddanmark;1661;1222145;Første infektion;1;
 2021-U02;1084;Hovedstaden;0;1849689;To eller flere reinfektioner;3;
 2021-U02;1084;Hovedstaden;16;1849689;Første reinfektion;2;
 2021-U02;1084;Hovedstaden;3181;1849689;Første infektion;1;
@@ -1189,7 +1189,7 @@
 2021-U35;1085;Sjælland;457;840125;Første infektion;1;
 2021-U35;1083;Syddanmark;0;1223372;To eller flere reinfektioner;3;
 2021-U35;1083;Syddanmark;9;1223372;Første reinfektion;2;
-2021-U35;1083;Syddanmark;625;1223372;Første infektion;1;
+2021-U35;1083;Syddanmark;624;1223372;Første infektion;1;
 2021-U36;1084;Hovedstaden;0;1852142;To eller flere reinfektioner;3;
 2021-U36;1084;Hovedstaden;38;1852142;Første reinfektion;2;
 2021-U36;1084;Hovedstaden;1640;1852142;Første infektion;1;
@@ -1420,7 +1420,7 @@
 2021-U51;1084;Hovedstaden;35903;1860952;Første infektion;1;
 2021-U51;1082;Midtjylland;1;1338673;To eller flere reinfektioner;3;
 2021-U51;1082;Midtjylland;380;1338673;Første reinfektion;2;
-2021-U51;1082;Midtjylland;14158;1338673;Første infektion;1;
+2021-U51;1082;Midtjylland;14157;1338673;Første infektion;1;
 2021-U51;1081;Nordjylland;1;591302;To eller flere reinfektioner;3;
 2021-U51;1081;Nordjylland;143;591302;Første reinfektion;2;
 2021-U51;1081;Nordjylland;5118;591302;Første infektion;1;
@@ -1488,7 +1488,7 @@
 2022-U03;1085;Sjælland;2256;841723;Første reinfektion;2;
 2022-U03;1085;Sjælland;37433;841723;Første infektion;1;
 2022-U03;1083;Syddanmark;11;1226727;To eller flere reinfektioner;3;
-2022-U03;1083;Syddanmark;2283;1226727;Første reinfektion;2;
+2022-U03;1083;Syddanmark;2282;1226727;Første reinfektion;2;
 2022-U03;1083;Syddanmark;55003;1226727;Første infektion;1;
 2022-U04;1084;Hovedstaden;49;1862046;To eller flere reinfektioner;3;
 2022-U04;1084;Hovedstaden;8369;1862046;Første reinfektion;2;
@@ -1513,7 +1513,7 @@
 2022-U05;1082;Midtjylland;77790;1339467;Første infektion;1;
 2022-U05;1081;Nordjylland;5;591192;To eller flere reinfektioner;3;
 2022-U05;1081;Nordjylland;1276;591192;Første reinfektion;2;
-2022-U05;1081;Nordjylland;32377;591192;Første infektion;1;
+2022-U05;1081;Nordjylland;32378;591192;Første infektion;1;
 2022-U05;1085;Sjælland;5;841723;To eller flere reinfektioner;3;
 2022-U05;1085;Sjælland;2022;841723;Første reinfektion;2;
 2022-U05;1085;Sjælland;35761;841723;Første infektion;1;
@@ -1528,7 +1528,7 @@
 2022-U06;1082;Midtjylland;83950;1339456;Første infektion;1;
 2022-U06;1081;Nordjylland;2;591073;To eller flere reinfektioner;3;
 2022-U06;1081;Nordjylland;2094;591073;Første reinfektion;2;
-2022-U06;1081;Nordjylland;40806;591073;Første infektion;1;
+2022-U06;1081;Nordjylland;40805;591073;Første infektion;1;
 2022-U06;1085;Sjælland;13;841750;To eller flere reinfektioner;3;
 2022-U06;1085;Sjælland;2246;841750;Første reinfektion;2;
 2022-U06;1085;Sjælland;37041;841750;Første infektion;1;
@@ -4808,3 +4808,9 @@
 2026-U19;1083;Syddanmark;0;1242421;Første infektion;1;
 2026-U19;1083;Syddanmark;0;1242421;To eller flere reinfektioner;3;
 2026-U19;1083;Syddanmark;1;1242421;Første reinfektion;2;
+2026-U20;1084;Hovedstaden;0;1944735;Første reinfektion;2;
+2026-U20;1084;Hovedstaden;0;1944735;To eller flere reinfektioner;3;
+2026-U20;1084;Hovedstaden;1;1944735;Første infektion;1;
+2026-U20;1083;Syddanmark;0;1242421;Første reinfektion;2;
+2026-U20;1083;Syddanmark;0;1242421;To eller flere reinfektioner;3;
+2026-U20;1083;Syddanmark;1;1242421;Første infektion;1;

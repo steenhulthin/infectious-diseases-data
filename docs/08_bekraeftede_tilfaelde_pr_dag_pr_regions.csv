@@ -1,4 +1,4 @@
-"Regionskode";"Region";"Dato";"Bekræftede tilfælde i alt";"timestamp_2026-05-12T12:22:33.340"
+"Regionskode";"Region";"Dato";"Bekræftede tilfælde i alt";"timestamp_2026-05-19T11:40:01.707"
 1085;Sjælland;2020-02-26;1;
 1084;Hovedstaden;2020-02-27;1;
 1082;Midtjylland;2020-02-28;1;
@@ -1469,7 +1469,7 @@
 1082;Midtjylland;2021-01-07;336;
 1081;Nordjylland;2021-01-07;145;
 1085;Sjælland;2021-01-07;247;
-1083;Syddanmark;2021-01-07;272;
+1083;Syddanmark;2021-01-07;271;
 1084;Hovedstaden;2021-01-08;608;
 1082;Midtjylland;2021-01-08;254;
 1081;Nordjylland;2021-01-08;118;
@@ -2664,7 +2664,7 @@
 1082;Midtjylland;2021-09-03;107;
 1081;Nordjylland;2021-09-03;25;
 1085;Sjælland;2021-09-03;56;
-1083;Syddanmark;2021-09-03;72;
+1083;Syddanmark;2021-09-03;71;
 1084;Hovedstaden;2021-09-04;239;
 1082;Midtjylland;2021-09-04;74;
 1081;Nordjylland;2021-09-04;16;
@@ -3231,7 +3231,7 @@
 1085;Sjælland;2021-12-25;1014;
 1083;Syddanmark;2021-12-25;1336;
 1084;Hovedstaden;2021-12-26;4652;
-1082;Midtjylland;2021-12-26;2626;
+1082;Midtjylland;2021-12-26;2625;
 1081;Nordjylland;2021-12-26;769;
 1085;Sjælland;2021-12-26;1412;
 1083;Syddanmark;2021-12-26;2004;
@@ -3344,7 +3344,7 @@
 1082;Midtjylland;2022-01-17;8823;
 1081;Nordjylland;2022-01-17;3606;
 1085;Sjælland;2022-01-17;6788;
-1083;Syddanmark;2022-01-17;9206;
+1083;Syddanmark;2022-01-17;9205;
 1084;Hovedstaden;2022-01-18;15797;
 1082;Midtjylland;2022-01-18;8617;
 1081;Nordjylland;2022-01-18;3329;
@@ -3412,7 +3412,7 @@
 1083;Syddanmark;2022-01-30;7981;
 1084;Hovedstaden;2022-01-31;15742;
 1082;Midtjylland;2022-01-31;14719;
-1081;Nordjylland;2022-01-31;5217;
+1081;Nordjylland;2022-01-31;5218;
 1085;Sjælland;2022-01-31;8397;
 1083;Syddanmark;2022-01-31;12299;
 1084;Hovedstaden;2022-02-01;11814;
@@ -3457,7 +3457,7 @@
 1083;Syddanmark;2022-02-08;13387;
 1084;Hovedstaden;2022-02-09;11550;
 1082;Midtjylland;2022-02-09;14675;
-1081;Nordjylland;2022-02-09;6858;
+1081;Nordjylland;2022-02-09;6857;
 1085;Sjælland;2022-02-09;5676;
 1083;Syddanmark;2022-02-09;11478;
 1084;Hovedstaden;2022-02-10;9826;
@@ -10261,3 +10261,7 @@
 1084;Hovedstaden;2026-05-07;1;
 1084;Hovedstaden;2026-05-08;1;
 1083;Syddanmark;2026-05-08;1;
+1083;Syddanmark;2026-05-11;1;
+1084;Hovedstaden;2026-05-13;1;
+1084;Hovedstaden;2026-05-18;1;
+1082;Midtjylland;2026-05-18;1;
