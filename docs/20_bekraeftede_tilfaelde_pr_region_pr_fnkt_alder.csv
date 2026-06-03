@@ -1,4 +1,4 @@
-"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"timestamp_2026-05-26T11:40:01.598"
+"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"timestamp_2026-06-02T11:40:02.113"
 ;;.;53;
 ;;00-02;210;
 1084;Hovedstaden;00-02;21824;
@@ -18,29 +18,29 @@
 1081;Nordjylland;06-11;28636;
 1085;Sjælland;06-11;38524;
 1083;Syddanmark;06-11;59582;
-;;12-15;409;
+;;12-15;410;
 1084;Hovedstaden;12-15;66665;
-1082;Midtjylland;12-15;50797;
+1082;Midtjylland;12-15;50796;
 1081;Nordjylland;12-15;21880;
 1085;Sjælland;12-15;30714;
 1083;Syddanmark;12-15;45731;
-;;16-19;744;
-1084;Hovedstaden;16-19;63924;
-1082;Midtjylland;16-19;50583;
+;;16-19;747;
+1084;Hovedstaden;16-19;63923;
+1082;Midtjylland;16-19;50582;
 1081;Nordjylland;16-19;22238;
 1085;Sjælland;16-19;30997;
-1083;Syddanmark;16-19;44295;
-;;20-39;8395;
-1084;Hovedstaden;20-39;384366;
+1083;Syddanmark;16-19;44294;
+;;20-39;8397;
+1084;Hovedstaden;20-39;384365;
 1082;Midtjylland;20-39;231807;
 1081;Nordjylland;20-39;98487;
-1085;Sjælland;20-39;115689;
+1085;Sjælland;20-39;115688;
 1083;Syddanmark;20-39;184864;
 ;;40-64;7067;
-1084;Hovedstaden;40-64;361889;
-1082;Midtjylland;40-64;246678;
+1084;Hovedstaden;40-64;361891;
+1082;Midtjylland;40-64;246677;
 1081;Nordjylland;40-64;111739;
-1085;Sjælland;40-64;166632;
+1085;Sjælland;40-64;166633;
 1083;Syddanmark;40-64;228532;
 ;;65-79;882;
 1084;Hovedstaden;65-79;89852;
@@ -49,7 +49,7 @@
 1085;Sjælland;65-79;51329;
 1083;Syddanmark;65-79;72892;
 ;;80+;210;
-1084;Hovedstaden;80+;29634;
+1084;Hovedstaden;80+;29635;
 1082;Midtjylland;80+;18294;
 1081;Nordjylland;80+;10899;
 1085;Sjælland;80+;13979;
