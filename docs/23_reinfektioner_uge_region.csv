@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Antal reinfektioner";"Reinfektioner pr. 100.000 borgere";"Første reinfektion";"To eller flere reinfektioner";"timestamp_2026-06-02T11:40:02.113"
+"Uge";"Regionskode";"Region";"Antal reinfektioner";"Reinfektioner pr. 100.000 borgere";"Første reinfektion";"To eller flere reinfektioner";"timestamp_2026-06-09T11:40:01.321"
 2020-U21;1084;Hovedstaden;2;0,11;2;0;
 2020-U21;1082;Midtjylland;1;0,07;1;0;
 2020-U21;1083;Syddanmark;1;0,08;1;0;
@@ -350,7 +350,7 @@
 2022-U03;1082;Midtjylland;2659;198,51;2641;18;
 2022-U03;1081;Nordjylland;1007;170,33;1003;4;
 2022-U03;1085;Sjælland;2258;268,26;2256;2;
-2022-U03;1083;Syddanmark;2293;186,92;2282;11;
+2022-U03;1083;Syddanmark;2294;187,00;2283;11;
 2022-U04;1084;Hovedstaden;8418;452,08;8369;49;
 2022-U04;1082;Midtjylland;2906;216,95;2898;8;
 2022-U04;1081;Nordjylland;1193;201,80;1191;2;
@@ -366,10 +366,10 @@
 2022-U06;1081;Nordjylland;2096;354,61;2094;2;
 2022-U06;1085;Sjælland;2259;268,37;2246;13;
 2022-U06;1083;Syddanmark;3127;254,92;3112;15;
-2022-U07;1084;Hovedstaden;4778;256,65;4731;47;
+2022-U07;1084;Hovedstaden;4779;256,70;4732;47;
 2022-U07;1082;Midtjylland;2726;203,52;2716;10;
 2022-U07;1081;Nordjylland;1530;258,85;1521;9;
-2022-U07;1085;Sjælland;1687;200,42;1677;10;
+2022-U07;1085;Sjælland;1688;200,53;1678;10;
 2022-U07;1083;Syddanmark;2138;174,30;2130;8;
 2022-U08;1084;Hovedstaden;3323;178,50;3290;33;
 2022-U08;1082;Midtjylland;1752;130,80;1741;11;
@@ -417,10 +417,10 @@
 2022-U16;1085;Sjælland;128;15,19;126;2;
 2022-U16;1083;Syddanmark;133;10,83;132;1;
 2022-U17;1084;Hovedstaden;269;14,42;260;9;
-2022-U17;1082;Midtjylland;98;7,30;94;4;
+2022-U17;1082;Midtjylland;97;7,23;93;4;
 2022-U17;1081;Nordjylland;50;8,46;49;1;
 2022-U17;1085;Sjælland;84;9,97;81;3;
-2022-U17;1083;Syddanmark;94;7,65;92;2;
+2022-U17;1083;Syddanmark;95;7,74;93;2;
 2022-U18;1084;Hovedstaden;213;11,41;201;12;
 2022-U18;1082;Midtjylland;62;4,62;61;1;
 2022-U18;1081;Nordjylland;31;5,24;31;0;
@@ -1434,3 +1434,4 @@
 2026-U21;1083;Syddanmark;1;0,08;1;0;
 2026-U22;1084;Hovedstaden;2;0,10;2;0;
 2026-U22;1085;Sjælland;1;0,12;1;0;
+2026-U23;1084;Hovedstaden;1;0,05;0;1;
