@@ -1,6 +1,7 @@
-"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"Indlagte";"Dato";"timestamp_2026-06-09T11:40:01.321"
-1084;Hovedstaden;20-39;1;1;2026-06-09;
-1084;Hovedstaden;40-64;1;0;2026-06-09;
-1085;Sjælland;40-64;1;1;2026-06-09;
-1083;Syddanmark;40-64;1;1;2026-06-09;
-1084;Hovedstaden;65-79;1;1;2026-06-09;
+"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"Indlagte";"Dato";"timestamp_2026-06-16T11:40:01.327"
+;;03-05;1;0;2026-06-16;
+1084;Hovedstaden;20-39;1;0;2026-06-16;
+1082;Midtjylland;20-39;1;0;2026-06-16;
+1084;Hovedstaden;40-64;2;0;2026-06-16;
+1084;Hovedstaden;65-79;1;0;2026-06-16;
+1084;Hovedstaden;80+;1;1;2026-06-16;
