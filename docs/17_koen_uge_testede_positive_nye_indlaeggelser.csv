@@ -1,4 +1,4 @@
-"Uge";"Køn";"Testede pr. 100.000 borgere";"Positive pr. 100.000 borgere";"Nye indlæggelser pr. 100.000 borgere";"timestamp_2026-06-30T11:40:01.761"
+"Uge";"Køn";"Testede pr. 100.000 borgere";"Positive pr. 100.000 borgere";"Nye indlæggelser pr. 100.000 borgere";"timestamp_2026-07-07T11:40:01.409"
 2020-U05;M;0;0;0,0;
 2020-U07;K;0;0;0,0;
 2020-U08;K;0;0;0,0;
@@ -665,3 +665,5 @@
 2026-U25;M;22;0;0,1;
 2026-U26;K;22;0;0,1;
 2026-U26;M;21;0;0,1;
+2026-U27;K;20;0;0,1;
+2026-U27;M;20;0;0,0;
