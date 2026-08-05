@@ -1,7 +1,10 @@
-"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"Døde";"Indlagte";"Dato";"timestamp_2026-07-28T11:40:01.465"
-1084;Hovedstaden;0-9;1;0;0;2026-07-28;
-1083;Syddanmark;0-9;1;0;1;2026-07-28;
-1084;Hovedstaden;50-59;1;0;0;2026-07-28;
-1084;Hovedstaden;60-69;1;0;1;2026-07-28;
-1084;Hovedstaden;70-79;1;0;1;2026-07-28;
-1084;Hovedstaden;80-89;2;0;1;2026-07-28;
+"Regionskode";"Region";"Aldersgruppe";"Bekræftede tilfælde i alt";"Døde";"Indlagte";"Dato";"timestamp_2026-08-04T11:40:01.400"
+1084;Hovedstaden;0-9;1;0;0;2026-08-04;
+1084;Hovedstaden;20-29;1;0;0;2026-08-04;
+1084;Hovedstaden;40-49;1;0;0;2026-08-04;
+1084;Hovedstaden;50-59;1;0;0;2026-08-04;
+1083;Syddanmark;60-69;1;0;1;2026-08-04;
+1084;Hovedstaden;70-79;2;0;2;2026-08-04;
+1083;Syddanmark;70-79;1;0;1;2026-08-04;
+1084;Hovedstaden;80-89;2;0;1;2026-08-04;
+1084;Hovedstaden;90+;1;0;1;2026-08-04;
