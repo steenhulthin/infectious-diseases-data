@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2026-08-11T11:40:01.801"
+"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2026-08-18T11:40:01.644"
 2020-U09;1084;Hovedstaden;0;1857623;Første reinfektion;2;
 2020-U09;1084;Hovedstaden;0;1857623;To eller flere reinfektioner;3;
 2020-U09;1084;Hovedstaden;2;1857623;Første infektion;1;
@@ -922,7 +922,7 @@
 2021-U17;1083;Syddanmark;793;1222127;Første infektion;1;
 2021-U18;1084;Hovedstaden;1;1849498;To eller flere reinfektioner;3;
 2021-U18;1084;Hovedstaden;28;1849498;Første reinfektion;2;
-2021-U18;1084;Hovedstaden;3140;1849498;Første infektion;1;
+2021-U18;1084;Hovedstaden;3139;1849498;Første infektion;1;
 2021-U18;1082;Midtjylland;0;1331015;To eller flere reinfektioner;3;
 2021-U18;1082;Midtjylland;4;1331015;Første reinfektion;2;
 2021-U18;1082;Midtjylland;1240;1331015;Første infektion;1;
@@ -1276,7 +1276,7 @@
 2021-U41;1081;Nordjylland;332;590721;Første infektion;1;
 2021-U41;1085;Sjælland;0;840653;To eller flere reinfektioner;3;
 2021-U41;1085;Sjælland;4;840653;Første reinfektion;2;
-2021-U41;1085;Sjælland;754;840653;Første infektion;1;
+2021-U41;1085;Sjælland;753;840653;Første infektion;1;
 2021-U41;1083;Syddanmark;0;1224620;To eller flere reinfektioner;3;
 2021-U41;1083;Syddanmark;9;1224620;Første reinfektion;2;
 2021-U41;1083;Syddanmark;662;1224620;Første infektion;1;
@@ -1462,7 +1462,7 @@
 2022-U01;1083;Syddanmark;22713;1226727;Første infektion;1;
 2022-U02;1084;Hovedstaden;49;1862046;To eller flere reinfektioner;3;
 2022-U02;1084;Hovedstaden;6674;1862046;Første reinfektion;2;
-2022-U02;1084;Hovedstaden;65156;1862046;Første infektion;1;
+2022-U02;1084;Hovedstaden;65155;1862046;Første infektion;1;
 2022-U02;1082;Midtjylland;10;1339467;To eller flere reinfektioner;3;
 2022-U02;1082;Midtjylland;1774;1339467;Første reinfektion;2;
 2022-U02;1082;Midtjylland;37717;1339467;Første infektion;1;
@@ -1477,7 +1477,7 @@
 2022-U02;1083;Syddanmark;32205;1226727;Første infektion;1;
 2022-U03;1084;Hovedstaden;82;1862046;To eller flere reinfektioner;3;
 2022-U03;1084;Hovedstaden;9818;1862046;Første reinfektion;2;
-2022-U03;1084;Hovedstaden;93221;1862046;Første infektion;1;
+2022-U03;1084;Hovedstaden;93220;1862046;Første infektion;1;
 2022-U03;1082;Midtjylland;18;1339467;To eller flere reinfektioner;3;
 2022-U03;1082;Midtjylland;2641;1339467;Første reinfektion;2;
 2022-U03;1082;Midtjylland;58628;1339467;Første infektion;1;
@@ -1507,7 +1507,7 @@
 2022-U04;1083;Syddanmark;63971;1226727;Første infektion;1;
 2022-U05;1084;Hovedstaden;46;1862046;To eller flere reinfektioner;3;
 2022-U05;1084;Hovedstaden;6782;1862046;Første reinfektion;2;
-2022-U05;1084;Hovedstaden;68924;1862046;Første infektion;1;
+2022-U05;1084;Hovedstaden;68923;1862046;Første infektion;1;
 2022-U05;1082;Midtjylland;12;1339467;To eller flere reinfektioner;3;
 2022-U05;1082;Midtjylland;3282;1339467;Første reinfektion;2;
 2022-U05;1082;Midtjylland;77788;1339467;Første infektion;1;
@@ -1516,7 +1516,7 @@
 2022-U05;1081;Nordjylland;32378;591192;Første infektion;1;
 2022-U05;1085;Sjælland;5;841723;To eller flere reinfektioner;3;
 2022-U05;1085;Sjælland;2022;841723;Første reinfektion;2;
-2022-U05;1085;Sjælland;35759;841723;Første infektion;1;
+2022-U05;1085;Sjælland;35760;841723;Første infektion;1;
 2022-U05;1083;Syddanmark;16;1226727;To eller flere reinfektioner;3;
 2022-U05;1083;Syddanmark;2520;1226727;Første reinfektion;2;
 2022-U05;1083;Syddanmark;64841;1226727;Første infektion;1;
@@ -1525,7 +1525,7 @@
 2022-U06;1084;Hovedstaden;64110;1861671;Første infektion;1;
 2022-U06;1082;Midtjylland;17;1339456;To eller flere reinfektioner;3;
 2022-U06;1082;Midtjylland;3970;1339456;Første reinfektion;2;
-2022-U06;1082;Midtjylland;83950;1339456;Første infektion;1;
+2022-U06;1082;Midtjylland;83949;1339456;Første infektion;1;
 2022-U06;1081;Nordjylland;2;591073;To eller flere reinfektioner;3;
 2022-U06;1081;Nordjylland;2094;591073;Første reinfektion;2;
 2022-U06;1081;Nordjylland;40805;591073;Første infektion;1;
@@ -1567,7 +1567,7 @@
 2022-U08;1083;Syddanmark;33535;1226640;Første infektion;1;
 2022-U09;1084;Hovedstaden;35;1861671;To eller flere reinfektioner;3;
 2022-U09;1084;Hovedstaden;2345;1861671;Første reinfektion;2;
-2022-U09;1084;Hovedstaden;23611;1861671;Første infektion;1;
+2022-U09;1084;Hovedstaden;23610;1861671;Første infektion;1;
 2022-U09;1082;Midtjylland;6;1339456;To eller flere reinfektioner;3;
 2022-U09;1082;Midtjylland;1215;1339456;Første reinfektion;2;
 2022-U09;1082;Midtjylland;28913;1339456;Første infektion;1;
@@ -1780,7 +1780,7 @@
 2022-U23;1084;Hovedstaden;1889;1869213;Første infektion;1;
 2022-U23;1082;Midtjylland;2;1345549;To eller flere reinfektioner;3;
 2022-U23;1082;Midtjylland;114;1345549;Første reinfektion;2;
-2022-U23;1082;Midtjylland;985;1345549;Første infektion;1;
+2022-U23;1082;Midtjylland;984;1345549;Første infektion;1;
 2022-U23;1081;Nordjylland;0;592134;To eller flere reinfektioner;3;
 2022-U23;1081;Nordjylland;46;592134;Første reinfektion;2;
 2022-U23;1081;Nordjylland;371;592134;Første infektion;1;
@@ -4902,7 +4902,7 @@
 2026-U31;1083;Syddanmark;0;1242734;To eller flere reinfektioner;3;
 2026-U31;1083;Syddanmark;2;1242734;Første infektion;1;
 2026-U32;1084;Hovedstaden;1;1943170;To eller flere reinfektioner;3;
-2026-U32;1084;Hovedstaden;4;1943170;Første infektion;1;
+2026-U32;1084;Hovedstaden;5;1943170;Første infektion;1;
 2026-U32;1084;Hovedstaden;5;1943170;Første reinfektion;2;
 2026-U32;1082;Midtjylland;0;1383122;Første infektion;1;
 2026-U32;1082;Midtjylland;0;1383122;To eller flere reinfektioner;3;
@@ -4910,3 +4910,12 @@
 2026-U32;1081;Nordjylland;0;592689;Første reinfektion;2;
 2026-U32;1081;Nordjylland;0;592689;To eller flere reinfektioner;3;
 2026-U32;1081;Nordjylland;1;592689;Første infektion;1;
+2026-U33;1084;Hovedstaden;0;1943170;To eller flere reinfektioner;3;
+2026-U33;1084;Hovedstaden;5;1943170;Første infektion;1;
+2026-U33;1084;Hovedstaden;6;1943170;Første reinfektion;2;
+2026-U33;1081;Nordjylland;0;592689;Første reinfektion;2;
+2026-U33;1081;Nordjylland;0;592689;To eller flere reinfektioner;3;
+2026-U33;1081;Nordjylland;1;592689;Første infektion;1;
+2026-U33;1085;Sjælland;0;857762;To eller flere reinfektioner;3;
+2026-U33;1085;Sjælland;1;857762;Første reinfektion;2;
+2026-U33;1085;Sjælland;2;857762;Første infektion;1;
