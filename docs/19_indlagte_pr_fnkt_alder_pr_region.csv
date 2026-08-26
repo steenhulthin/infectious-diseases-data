@@ -1,4 +1,4 @@
-"Regionskode";"Region";"Aldersgruppe";"Indlæggelser";"timestamp_2026-08-18T11:40:01.644"
+"Regionskode";"Region";"Aldersgruppe";"Indlæggelser";"timestamp_2026-08-25T11:40:01.449"
 ;;.;0;
 ;;00-02;7;
 1084;Hovedstaden;00-02;1031;
@@ -20,7 +20,7 @@
 1083;Syddanmark;06-11;74;
 ;;12-15;0;
 1084;Hovedstaden;12-15;159;
-1082;Midtjylland;12-15;88;
+1082;Midtjylland;12-15;89;
 1081;Nordjylland;12-15;50;
 1085;Sjælland;12-15;67;
 1083;Syddanmark;12-15;91;
@@ -36,8 +36,8 @@
 1081;Nordjylland;20-39;738;
 1085;Sjælland;20-39;1241;
 1083;Syddanmark;20-39;1482;
-;;40-64;135;
-1084;Hovedstaden;40-64;6191;
+;;40-64;136;
+1084;Hovedstaden;40-64;6190;
 1082;Midtjylland;40-64;3123;
 1081;Nordjylland;40-64;1648;
 1085;Sjælland;40-64;3017;
@@ -49,8 +49,8 @@
 1085;Sjælland;65-79;4723;
 1083;Syddanmark;65-79;5242;
 ;;80+;21;
-1084;Hovedstaden;80+;8846;
+1084;Hovedstaden;80+;8848;
 1082;Midtjylland;80+;3595;
-1081;Nordjylland;80+;2474;
+1081;Nordjylland;80+;2475;
 1085;Sjælland;80+;4198;
 1083;Syddanmark;80+;4999;
