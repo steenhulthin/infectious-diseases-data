@@ -1,4 +1,4 @@
-"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2026-08-25T11:40:01.449"
+"Dato";"Regionskode";"Region";"Kategori";"Antal borgere";"timestamp_2026-09-01T11:40:01.667"
 2020-06-01;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
 2020-06-01;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2020-06-01;1083;Syddanmark;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
@@ -5427,7 +5427,7 @@
 2022-02-24;1081;Nordjylland;Indlæggelse pga. andre forhold end covid-19;13;
 2022-02-24;1081;Nordjylland;Indlæggelse pga. covid-19;17;
 2022-02-24;1081;Nordjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;13;
-2022-02-24;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;13;
+2022-02-24;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;12;
 2022-02-24;1085;Sjælland;Indlæggelse pga. covid-19;15;
 2022-02-24;1085;Sjælland;Indlæggelse, hvor covid-19 kan have spillet en rolle;24;
 2022-02-24;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;40;
@@ -17303,7 +17303,7 @@
 2025-03-16;1082;Midtjylland;Indlæggelse pga. covid-19;1;
 2025-03-16;1082;Midtjylland;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2025-03-16;1081;Nordjylland;Indlæggelse pga. covid-19;1;
-2025-03-16;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;3;
+2025-03-16;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;4;
 2025-03-16;1085;Sjælland;Indlæggelse pga. covid-19;1;
 2025-03-16;1083;Syddanmark;Indlæggelse pga. andre forhold end covid-19;1;
 2025-03-16;1083;Syddanmark;Indlæggelse pga. covid-19;2;
@@ -19441,3 +19441,7 @@
 2026-08-06;1084;Hovedstaden;Indlæggelse pga. covid-19;1;
 2026-08-09;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
 2026-08-09;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;1;
+2026-08-10;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;1;
+2026-08-14;1085;Sjælland;Indlæggelse pga. andre forhold end covid-19;1;
+2026-08-15;1081;Nordjylland;Indlæggelse pga. covid-19;1;
+2026-08-16;1084;Hovedstaden;Indlæggelse, hvor covid-19 kan have spillet en rolle;1;
