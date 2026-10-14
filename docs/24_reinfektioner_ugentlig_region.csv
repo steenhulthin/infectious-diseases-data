@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2026-10-06T11:40:01.679"
+"Uge";"Regionskode";"Region";"Antal tilfælde";"Antal borgere";"Type af tilfælde";"type_count";"timestamp_2026-10-13T11:40:01.865"
 2020-U09;1084;Hovedstaden;0;1857623;Første reinfektion;2;
 2020-U09;1084;Hovedstaden;0;1857623;To eller flere reinfektioner;3;
 2020-U09;1084;Hovedstaden;2;1857623;Første infektion;1;
@@ -3667,7 +3667,7 @@
 2024-U44;1083;Syddanmark;39;1237277;Første infektion;1;
 2024-U45;1084;Hovedstaden;12;1920759;To eller flere reinfektioner;3;
 2024-U45;1084;Hovedstaden;54;1920759;Første reinfektion;2;
-2024-U45;1084;Hovedstaden;74;1920759;Første infektion;1;
+2024-U45;1084;Hovedstaden;73;1920759;Første infektion;1;
 2024-U45;1082;Midtjylland;0;1370091;To eller flere reinfektioner;3;
 2024-U45;1082;Midtjylland;7;1370091;Første infektion;1;
 2024-U45;1082;Midtjylland;8;1370091;Første reinfektion;2;
@@ -5021,3 +5021,15 @@
 2026-U40;1083;Syddanmark;0;1242509;To eller flere reinfektioner;3;
 2026-U40;1083;Syddanmark;1;1242509;Første infektion;1;
 2026-U40;1083;Syddanmark;1;1242509;Første reinfektion;2;
+2026-U41;1084;Hovedstaden;5;1943510;To eller flere reinfektioner;3;
+2026-U41;1084;Hovedstaden;17;1943510;Første reinfektion;2;
+2026-U41;1084;Hovedstaden;19;1943510;Første infektion;1;
+2026-U41;1082;Midtjylland;1;1385290;To eller flere reinfektioner;3;
+2026-U41;1082;Midtjylland;2;1385290;Første reinfektion;2;
+2026-U41;1082;Midtjylland;3;1385290;Første infektion;1;
+2026-U41;1085;Sjælland;0;858135;To eller flere reinfektioner;3;
+2026-U41;1085;Sjælland;2;858135;Første reinfektion;2;
+2026-U41;1085;Sjælland;6;858135;Første infektion;1;
+2026-U41;1083;Syddanmark;0;1242165;To eller flere reinfektioner;3;
+2026-U41;1083;Syddanmark;2;1242165;Første infektion;1;
+2026-U41;1083;Syddanmark;2;1242165;Første reinfektion;2;
