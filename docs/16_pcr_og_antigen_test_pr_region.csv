@@ -1,4 +1,4 @@
-"Uge";"Regionskode";"Region";"Prøver";"Metode";"timestamp_2026-11-10T11:40:01.628"
+"Uge";"Regionskode";"Region";"Prøver";"Metode";"timestamp_2026-11-17T11:40:01.217"
 2020-U05;1085;Sjælland;1;PCR;
 2020-U07;1083;Syddanmark;1;PCR;
 2020-U08;;;1;PCR;
@@ -3025,8 +3025,14 @@
 2026-U44;1085;Sjælland;316;PCR;
 2026-U44;1083;Syddanmark;308;PCR;
 2026-U45;;;22;PCR;
-2026-U45;1084;Hovedstaden;1413;PCR;
-2026-U45;1082;Midtjylland;153;PCR;
-2026-U45;1081;Nordjylland;209;PCR;
-2026-U45;1085;Sjælland;356;PCR;
-2026-U45;1083;Syddanmark;275;PCR;
+2026-U45;1084;Hovedstaden;1436;PCR;
+2026-U45;1082;Midtjylland;162;PCR;
+2026-U45;1081;Nordjylland;211;PCR;
+2026-U45;1085;Sjælland;364;PCR;
+2026-U45;1083;Syddanmark;283;PCR;
+2026-U46;;;23;PCR;
+2026-U46;1084;Hovedstaden;1628;PCR;
+2026-U46;1082;Midtjylland;183;PCR;
+2026-U46;1081;Nordjylland;226;PCR;
+2026-U46;1085;Sjælland;420;PCR;
+2026-U46;1083;Syddanmark;329;PCR;
